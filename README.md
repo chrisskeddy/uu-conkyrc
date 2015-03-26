@@ -15,4 +15,4 @@ to get weather working
 install weather-util
 
   -Ubuntu/Linux Mint
-    sudo apt-get install weather-util weather-util-data
+  <code>sudo apt-get install weather-util weather-util-data</code>
