@@ -9,7 +9,8 @@ install conky
 Conky is a small usage program that can display system usage on the desktop. Conky can also be used to pull other
 information from commands. I run the weather command once every hour which outputs to a file which conky reads.
 
-#For weather
-install weather-util
+#weather
+to get weather working
+nstall weather-util
   -Ubuntu/Linux Mint
     sudo apt-get install weather-util weather-util-data
