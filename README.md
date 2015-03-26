@@ -1,5 +1,4 @@
 # uu-conkyrc
-copy or move the uu-conkyrc to ~/.conkyrc for use with conky
 This is just a conkyrc used with conky.
 
   -Ubuntu/Linux Mint
@@ -14,3 +13,7 @@ install weather-util
 
   -Ubuntu/Linux Mint
   <code>sudo apt-get install weather-util weather-util-data</code>
+#install
+make sure that uu-conkyrc.sh has execute
+<code>chmod u+x uu-conkyrc.sh</code>
+<code>./uu-conkyrc.sh</code>
