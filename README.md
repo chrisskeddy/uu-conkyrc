@@ -1,5 +1,5 @@
 # uu-conkyrc
-~/.conkyrc for use with conky
+copy or move the uu-conkyrc to ~/.conkyrc for use with conky
 This is just a conkyrc used with conky.
 
   -Ubuntu/Linux Mint
