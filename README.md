@@ -11,6 +11,6 @@ information from commands. I run the weather command once every hour which outpu
 
 #weather
 to get weather working
-nstall weather-util
+install weather-util
   -Ubuntu/Linux Mint
     sudo apt-get install weather-util weather-util-data
